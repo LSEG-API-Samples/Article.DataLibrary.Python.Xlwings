@@ -12,25 +12,7 @@
         }
     },
     "sessions": {
-        "default": "platform.rdp",
-        "platform": {
-            "rdp": {
-                "app-key": "YOUR APP KEY GOES HERE!",
-                "username": "YOUR USERNAME/MACHINE-ID GOES HERE!",
-                "password": "YOUR PASSWORD GOES HERE!"
-            },
-            "deployed": {
-                "app-key": "YOUR APP KEY GOES HERE!",
-                "realtime-distribution-system": {
-                    "url" : "YOUR DEPLOYED HOST:PORT GOES HERE!",
-                    "dacs" : {
-                        "username" : "YOUR DACS ID GOES HERE!",
-                        "application-id" : 256,
-                        "position" : ""
-                    }
-                }
-            }
-        },
+        "default": "desktop.workspace",
         "desktop": {
             "workspace": {
                 "app-key": "YOUR APP KEY GOES HERE!"
