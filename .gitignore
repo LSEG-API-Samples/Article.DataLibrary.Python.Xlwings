@@ -15,3 +15,4 @@ ipython_config.py
 notebook/rdp_xlwingsce_notebook.ipynb
 notebook/RDP-Generic-BULK.ipynb
 refinitiv-data.dev.config.json
+notebook/~*.xlsx
