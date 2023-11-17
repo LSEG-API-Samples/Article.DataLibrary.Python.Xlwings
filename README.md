@@ -2,7 +2,7 @@
 - version: 1.0
 - Last update: November 2023
 - Environment: Windows
-- Prerequisite: [Access to RDP credentials](#prerequisite) and [xlwings](https://www.xlwings.org)
+- Prerequisite: [Access to Workspace Desktop](#prerequisite) and [xlwings](https://www.xlwings.org)
 
 Example Code Disclaimer:
 ALL EXAMPLE CODE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS FOR ILLUSTRATIVE PURPOSES ONLY. REFINITIV MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE EXAMPLE CODE, OR THE INFORMATION, CONTENT, OR MATERIALS USED IN CONNECTION WITH THE EXAMPLE CODE. YOU EXPRESSLY AGREE THAT YOUR USE OF THE EXAMPLE CODE IS AT YOUR SOLE RISK.
