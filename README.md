@@ -19,7 +19,7 @@ This example project contains a series of Jupyter Notebook and Python console ap
 
 [xlwings](https://www.xlwings.org) is a Python library that makes it easy to call Python from Excel and vice versa on Windows and macOS. The library lets you automate Excel from Python source code to produce reports or to interact with Jupyter notebook applications. It also allows you to replace VBA macros with Python Code or write UDFs (user defined functions - Windows only).
 * The [xlwings CE](https://docs.xlwings.org/en/stable) is a free and open-source library ([BSD-licensed](https://opensource.org/licenses/BSD-3-Clause)) which provides basic functionalities to lets developers integrate Python with Excel. 
-* The [xlwings PRO](https://docs.xlwings.org/en/latest/pro/license_key.html) provides more advance features such as [reports](https://www.xlwings.org/reporting), embedded Python code in Excel, one-click installers for easy deployment, video training, dedicated support and much more. 
+* The [xlwings PRO](https://www.xlwings.org/pricing) provides more advance features such as [reports](https://www.xlwings.org/reporting), embedded Python code in Excel, one-click installers for easy deployment, video training, dedicated support and much more. 
 
 Please refer to [Financial Reporting with Workspace, xlwings and Excel](https://developers.lseg.com/en/article-catalog/article/financial-reporting-with-eikon-and-excel) article which give detail regarding how to integrate xlwings with other LSEG Python API.
 
@@ -67,12 +67,12 @@ Thank you [Felix Zumstein (@fzumstein)](https://github.com/fzumstein) from [xlwi
 
 ## <a id="references"></a>References
 
-You can find more details regarding the Refinitiv Data Platform Libraries, xlwings and, related technologies for this notebook from the following resources:
-* [Data Library for Python](https://developers.lseg.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-library-for-python) on the [Refinitiv Developer Community](https://developers.refinitiv.com/) web site.
+You can find more details regarding the Data Library for Python, xlwings and, related technologies for this notebook from the following resources:
+* [Data Library for Python](https://developers.lseg.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-library-for-python) on the [LSEG Developer Community](https://developers.lseg.com/) web site.
 * [Xlwings web site](https://www.xlwings.org/).
 * [Xlwings CE Document page](https://docs.xlwings.org/en/stable/).
-<!--* [xlwings PRO page](https://www.xlwings.org/pro).
-* [xlwings PRO Document page](https://docs.xlwings.org/en/stable/pro.html).-->
+* [xlwings Pricing page](https://www.xlwings.org/pricing).
+<!--* [xlwings PRO Document page](https://docs.xlwings.org/en/stable/pro.html).-->
 * [xlwings API Reference page](https://docs.xlwings.org/en/stable/api.html).
 * [xlwings Reports page](https://www.xlwings.org/reporting).
 * [xlwings Embedded Code page](https://docs.xlwings.org/en/stable/deployment.html#embedded-code).
