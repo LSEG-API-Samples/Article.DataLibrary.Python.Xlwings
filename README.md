@@ -71,9 +71,8 @@ You can find more details regarding the Data Library for Python, xlwings and, re
 * [Data Library for Python](https://developers.lseg.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-library-for-python) on the [LSEG Developer Community](https://developers.lseg.com/) web site.
 * [Xlwings web site](https://www.xlwings.org/).
 * [Xlwings CE Document page](https://docs.xlwings.org/en/stable/).
-* [xlwings Pricing page](https://www.xlwings.org/pricing).
-<!--* [xlwings PRO Document page](https://docs.xlwings.org/en/stable/pro.html).-->
-* [xlwings API Reference page](https://docs.xlwings.org/en/stable/api.html).
+* [xlwings Pro page](https://www.xlwings.org/pricing).
+* [xlwings API Reference page](https://docs.xlwings.org/en/latest/api).
 * [xlwings Reports page](https://www.xlwings.org/reporting).
 * [xlwings Embedded Code page](https://docs.xlwings.org/en/stable/deployment.html#embedded-code).
 * [Financial Reporting with Eikon, xlwings and Excel](https://developers.lseg.com/en/article-catalog/article/financial-reporting-with-eikon-and-excel).
