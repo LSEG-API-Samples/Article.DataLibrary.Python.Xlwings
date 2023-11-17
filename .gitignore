@@ -17,3 +17,4 @@ notebook/RDP-Generic-BULK.ipynb
 refinitiv-data.dev.config.json
 notebook/~*.xlsx
 notebook/part2_xlwings_pro_notebook.ipynb
+python_embedded/
