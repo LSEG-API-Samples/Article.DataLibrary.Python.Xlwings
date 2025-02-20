@@ -143,14 +143,15 @@ Thank you [Felix Zumstein (@fzumstein)](https://github.com/fzumstein) from [xlwi
 ## <a id="references"></a>References
 
 You can find more details regarding the Data Library for Python, xlwings and, related technologies for this notebook from the following resources:
-* [Data Library for Python](https://developers.lseg.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-library-for-python) on the [LSEG Developer Community](https://developers.lseg.com/) web site.
-* [Xlwings web site](https://www.xlwings.org/).
-* [Xlwings CE Document page](https://docs.xlwings.org/en/stable/).
-* [xlwings Pro page](https://www.xlwings.org/pricing).
-* [xlwings API Reference page](https://docs.xlwings.org/en/latest/api).
-* [xlwings Reports page](https://www.xlwings.org/reporting).
-* [xlwings Embedded Code page](https://docs.xlwings.org/en/stable/deployment.html#embedded-code).
-* [Financial Reporting with Eikon, xlwings and Excel](https://developers.lseg.com/en/article-catalog/article/financial-reporting-with-eikon-and-excel).
+
+- [Data Library for Python verrsion 1](https://developers.lseg.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-library-for-python) and [LSEG Data Library for Python](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python) on the [LSEG Developer Community](https://developers.lseg.com/) web site.
+- [Xlwings web site](https://www.xlwings.org/).
+- [Xlwings CE Document page](https://docs.xlwings.org/en/stable/).
+- [xlwings Pro page](https://www.xlwings.org/pricing).
+- [xlwings API Reference page](https://docs.xlwings.org/en/latest/api).
+- [xlwings Reports page](https://www.xlwings.org/reporting).
+- [xlwings Embedded Code page](https://docs.xlwings.org/en/stable/deployment.html#embedded-code).
+- [Financial Reporting with Eikon, xlwings and Excel](https://developers.lseg.com/en/article-catalog/article/financial-reporting-with-eikon-and-excel).
 
 
 For any questions related to this article or Data Library, please use the Developers Community [Q&A Forum](https://community.developers.refinitiv.com/).
