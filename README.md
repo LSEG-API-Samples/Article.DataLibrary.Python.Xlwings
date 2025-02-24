@@ -25,7 +25,7 @@ This example project contains a series of Jupyter Notebook and Python console ap
 Please refer to [Financial Reporting with Workspace, xlwings and Excel](https://developers.lseg.com/en/article-catalog/article/financial-reporting-with-eikon-and-excel) article which give detail regarding how to integrate xlwings with other LSEG Python API.
 
 *Note*:
-This project is based on xlwings versions **0.30.12**.
+This project is based on xlwings version **0.33.9**.
 
 ## <a id="rdp_lib"></a>Introduction to the Data Library for Python
 
@@ -164,7 +164,5 @@ You can find more details regarding the Data Library for Python, xlwings and, re
 - [xlwings API Reference page](https://docs.xlwings.org/en/latest/api).
 - [xlwings Reports page](https://www.xlwings.org/reporting).
 - [xlwings Embedded Code page](https://docs.xlwings.org/en/stable/deployment.html#embedded-code).
-- [Financial Reporting with Eikon, xlwings and Excel](https://developers.lseg.com/en/article-catalog/article/financial-reporting-with-eikon-and-excel).
-
 
 For any questions related to this article or Data Library, please use the Developers Community [Q&A Forum](https://community.developers.refinitiv.com/).
