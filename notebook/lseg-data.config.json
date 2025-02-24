@@ -7,7 +7,7 @@
             },
             "file": {
                 "enabled": false,
-                "name": "refinitiv-data-lib.log"
+                "name": "lseg-data-lib.log"
             }
         }
     },
