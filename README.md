@@ -1,6 +1,6 @@
 # How to integrate Financial Data from Workspace platform to Excel with Xlwings
 - version: 2.0
-- Last update: February 2025
+- Last update: May 2025
 - Environment: Windows
 - Prerequisite: [Access to Workspace Desktop](#prerequisite) and [xlwings](https://www.xlwings.org)
 
@@ -37,7 +37,7 @@ The Data Library are available in the following programming languages:
 
 - [Python](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python)
 - [.NET](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-net)
-- [TypeScript](https://developers.lseg.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-library-for-typescript)
+- [TypeScript](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-typescript)
 
 For more deep detail regarding the Data Library for Python, please refer to the following articles and tutorials:
 
